@@ -4,5 +4,5 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
-    private static getMassedge() { return "Snowlake!"; }
+    private getMassedge() { return "Snowlake!"; }
 }
